@@ -1,9 +1,12 @@
 <?php
-/**
+  /**
  * Plugin Name: Advanced Dashboard Info
  * Description: Enhanced dashboard widget with detailed site information and quick tools.
- * Version: 3.0
+ * Version: 1.1
  * Author: Solomon HDS
+ * Author URI: https://jedidiahsolomon.name.ng
+ * Plugin URI: https://github.com/Jedidiah-Solomon/Wordpress-Plugins/blob/main/ultimate-seo-analyzer.zip
+ *  Text Domain: ultimate-seo-analyzer
  */
 
 // Add the dashboard widget

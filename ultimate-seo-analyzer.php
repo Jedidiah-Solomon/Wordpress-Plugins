@@ -4,7 +4,11 @@
  * Description: Advanced SEO analysis tool for titles, meta, images, headings, links, favicon, and keywords with improved keyword normalization.
  * Version: 1.2
  * Author: Solomon HDS
+ * Author URI: https://jedidiahsolomon.name.ng
+ * Plugin URI: https://github.com/Jedidiah-Solomon/Wordpress-Plugins/blob/main/ultimate-seo-analyzer.zip
+ *  Text Domain: ultimate-seo-analyzer
  */
+
 
 class UltimateSEOAnalyzer {
     private $post;

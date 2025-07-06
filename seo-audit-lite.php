@@ -1,9 +1,12 @@
 <?php
-/**
+ /**
  * Plugin Name: SEO Audit Lite
  * Description: A simple on-page SEO checker for titles, meta descriptions, H1 tags, and missing image alts.
- * Version: 1.0
- * Author: Solomon
+ * Version: 1.1
+ * Author: Solomon HDS
+ * Author URI: https://jedidiahsolomon.name.ng
+ * Plugin URI: https://github.com/Jedidiah-Solomon/Wordpress-Plugins/blob/main/ultimate-seo-analyzer.zip
+ *  Text Domain: ultimate-seo-analyzer
  */
 
 add_action('admin_notices', 'seo_audit_lite_notice');
